@@ -1,0 +1,29 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "test_demo",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "test_demo (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "test_demo (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "test_demo (Flutter Redmi Note 9 Pro)",
+            "program": "lib/main.dart",
+            "deviceId": "617edb3",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}

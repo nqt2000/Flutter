@@ -88,7 +88,7 @@ class _HomePageState extends State<HomePage> {
             ),
             FloatingActionButton(
               onPressed: saveNewTask,
-              child: Icon(Icons.add),
+              child: const Icon(Icons.add),
             ),
           ],
         ),
